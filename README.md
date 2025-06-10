@@ -16,9 +16,9 @@
 
 ## 📊 Статистика GitHub  
 
-[![Ваш GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ-GITHUB-USERNAME&show_icons=true&theme=radical)](https://github.com/ВАШ-GITHUB-USERNAME)  
+[![Ваш GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ-GITHUB-USERNAME&show_icons=true&theme=radical)](https://github.com/PokochuroKirill)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ-GITHUB-USERNAME&layout=compact&theme=radical)](https://github.com/ВАШ-GITHUB-USERNAME)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ-GITHUB-USERNAME&layout=compact&theme=radical)](https://github.com/PokochuroKirill)  
 
 ## 📌 Активные проекты  
 
